@@ -1,4 +1,11 @@
 commands for pushing a file into git hub
-step1: git add <filename>
-Step2: git commit -m "<ur comment>"
-step 3: git push origin(n) mater
+
+step1: git intit(TO A ADD A NEW FILE ITO GITHUB)
+
+step2: git add <filename>
+
+Step3: git commit -m "<ur comment>"
+
+step4:git remote add <name of path> <repositary url>
+
+step 5: git push origin(n) mater
